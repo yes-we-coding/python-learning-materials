@@ -1,0 +1,5 @@
+.lfs_push.log
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
